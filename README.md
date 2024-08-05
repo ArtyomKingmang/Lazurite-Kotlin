@@ -1,2 +1,2 @@
 # Lazurite-Kotlin
-implementation Lazurite language in Kotlin
+Проект перенесен: https://github.com/ArtyomKingmang/Lazurite
